@@ -1,6 +1,6 @@
 # Подслушвателно устройство
 
-!Лого на проекта: https://github.com/Teodor1331/Eavesdropping-Device/blob/main/Logo/logo.jpg
+Лого на проекта: https://github.com/Teodor1331/Eavesdropping-Device/blob/main/Logo/logo.jpg
 
 *Подслушвателното устройство прави аудио запис. След това посредством Bluetooth прехвърля записа на компютър.*
 
