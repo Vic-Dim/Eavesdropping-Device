@@ -34,7 +34,7 @@
 
 * [Arudino Uno Revision 3] https://store.arduino.cc/arduino-uno-rev3 - *A microcontroller board based on the ATmega328P*
 
-## Информация за авторите на проекта (задължително)
+## Информация за авторите на проекта
 
 * **Виктор Димитров (11 Б)** - *хардуерист* - [Vic-Dim] https://github.com/Vic-Dim
 * **Теодор Дишански (11 Б)** - *програмист* - [Teodor1331] https://github.com/Teodor1331
