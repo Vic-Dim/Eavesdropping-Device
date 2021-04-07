@@ -32,7 +32,7 @@
 
 ## Използвани технологии (задължително)
 
-* [Име на технологията](линк към официанлния сайт на технологията) - *описание на технологията*
+* [Arudino Uno Revision 3] https://store.arduino.cc/arduino-uno-rev3 - *A microcontroller board based on the ATmega328P*
 
 ## Информация за авторите на проекта (задължително)
 
